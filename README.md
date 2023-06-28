@@ -1,12 +1,10 @@
-# React News App
+# News App With React
+ 
+Proposed Features:
+  
+        1. Easy to use and attractive.
+        2. Use of API
 
-## Setup & Run
+Tech Stack:
 
-Clone or download the repository.
-Go to project's root directory and run following command in terminal to install dependencies:
-
-`yarn install`
-
-When this finishes, start app with:
-
-`yarn start`
+    HTML,CSS,BOOTSTRAP,JAVASCRIPT,React etc
